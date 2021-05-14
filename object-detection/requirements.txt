@@ -45,4 +45,4 @@ lazr.uri==1.0.3
 MarkupSafe==1.1.0
 torch
 torchvision
-cv2
+opencv-python == 4.5.2.52
