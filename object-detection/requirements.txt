@@ -47,4 +47,4 @@ torch
 torchvision
 numpy
 opencv-python-headless
-yaml
+pyyaml
