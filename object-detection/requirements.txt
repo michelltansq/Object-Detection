@@ -48,3 +48,4 @@ torchvision
 numpy
 opencv-python-headless
 pyyaml
+matplotlib
