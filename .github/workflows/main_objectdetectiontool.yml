@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'objectdetectiontool'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_1d180d34f85940d5a5cdef38ba75fb90 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_0d0c0ec2eed4425693cfdbd44f733236 }}
