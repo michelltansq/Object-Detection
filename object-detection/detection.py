@@ -4,6 +4,7 @@ import requests
 from PIL import Image
 import torch
 import torchvision
+import cv2
 
 st.title('Object Detection Tool')
 st.sidebar.header('Upload your image here:')
