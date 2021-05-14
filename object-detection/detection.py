@@ -3,6 +3,7 @@ import time
 import requests
 from PIL import Image
 import torch
+import torchvision
 
 st.title('Object Detection Tool')
 st.sidebar.header('Upload your image here:')
